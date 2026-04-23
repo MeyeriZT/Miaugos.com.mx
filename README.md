@@ -1,15 +1,3 @@
-<!DOCTYPE html> 
-
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-        <title>Jugos Miau</title>
-        <link rel="stylesheet" href="style.css" type="text/css">
-    </head>
-
-    <body>
-    <h1>Miuaugos.com.mx</h1>
-        <script src="script.js"></script>
-    </body>
 
 <p>INFO. Sobre nuestras bebidas y en que otras redes nos enuentran</p>
 
