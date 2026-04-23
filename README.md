@@ -1,7 +1,5 @@
 <!DOCTYPE html> 
 
-<head>
-
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
         <title>Jugos Miau</title>
@@ -12,8 +10,6 @@
     <h1>Miuaugos.com.mx</h1>
         <script src="script.js"></script>
     </body>
-
-</html>
 
 <p>INFO. Sobre nuestras bebidas y en que otras redes nos enuentran</p>
 
@@ -28,7 +24,7 @@
 
 <h2>Nuestras redes sociales son las siguientes</h2>
 
-<li>Instagram: https://www.instagram.com/miaugos.com.mx?igsh=aDh6ZWhrcnMzNDBv&utm_qr</li>
-<li>Tik Tok: www.tiktok.com/@miaugos.com.mx</li>
+<li>Instagram: https://www.instagram.com/miaugos.com.mx?igsh=aDh6ZWhrcnMzNDBv&utm_qr (miaugos.com.mx)</li>
+<li>Tik Tok: www.tiktok.com/@miaugos.com.mx (miaugos.com.mx)</li>
 
 <h2>Ahora somos una pequeña empresa pero si te interesa saber más sobre nostros en el fuuro visita esta página que se estara actualiznado cada vez que haya un nuevo producto o algo nuevo sobre nosotros, compra Jugos miau en tu tienda mas cercana !!!!!!</h2>
